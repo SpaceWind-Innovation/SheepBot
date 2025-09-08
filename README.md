@@ -89,7 +89,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 👤 **Spacewind Innovation**  
 - 🌐 Website: [spacewind.xyz](https://spacewind.xyz)  
 - 📧 Email: info@spacewind.xyz  
-- 🐙 GitHub: [github.com/spacewind](https://github.com/spacewind)  
+- 🐙 GitHub: [github.com/spacewind-innovation](https://github.com/spacewind-innovation)  
 
 ---
 ✨ Sheep Bot – *Because searching documents should be as easy as asking a question.*
